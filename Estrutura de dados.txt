@@ -1,0 +1,4 @@
+ESTRUTURA E DADOS
+* List []
+* Dicionário {} -  name ['key']=valor / name {name ['key']=valor, name ['key']=valor, "key":valor}
+* Tuplas = name (  )
